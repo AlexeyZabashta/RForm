@@ -1,0 +1,23 @@
+.header_wrapper {
+  background-color: #282c34;  
+  height: 10vh;   
+}
+
+.header {  
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 50%;  
+  margin-left: 25%;   
+}
+
+.header_item {  
+  margin: 0 5px;
+  width: 40%;  
+  height: 5vh;
+  border-radius: 1rem;
+  background-color: rgba(106, 206, 228, 0.566); 
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1.5rem;
+}

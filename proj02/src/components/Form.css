@@ -1,0 +1,50 @@
+.values_wrapper {
+  padding-top: 3rem;
+  background-color: #282c34;
+  min-height: 90vh;
+}
+
+.values_block {
+  margin: 0 auto;
+  width: 60%;
+  background-color: rgba(255, 235, 205, 0.3);
+}
+
+.values_block {
+  padding: 1rem 1rem 1rem 1rem;
+  border-radius: 1rem;
+}
+
+.form_block {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  background-color: rgba(187, 206, 155, 0.3);
+}
+
+.values_quant {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.values_text {  
+  width: 15rem;
+  margin-right: 1rem;
+}
+
+#build {  
+  display: block;
+  cursor: pointer;
+  width: 5rem;
+  height: 2rem;
+  margin-left: calc(50%-2.5rem);
+}
+
+.create_form {
+  margin: 5rem auto;
+  width: 60%;
+  padding: 1rem 1rem 1rem 1rem;
+  border-radius: 1rem;
+  background-color: rgba(255, 235, 205, 0.3);
+}
